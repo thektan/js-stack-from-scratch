@@ -1,0 +1,11 @@
+{
+  "name": "js-stack-from-scratch",
+  "version": "1.0.0",
+  "description": "Project for going through js stack from scratch on github.",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {}
+}
